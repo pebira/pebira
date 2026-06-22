@@ -4,3 +4,6 @@ AI Culture Meets Wearable Commerce. Pebira is an AI culture and apparel brand cr
 
 # visit our site
 https://pebira.com/
+
+# send me message
+pebira@pebira.com
